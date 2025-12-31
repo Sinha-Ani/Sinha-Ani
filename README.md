@@ -1,4 +1,4 @@
-#<centre> I am Aniket Sinha</centre>
+# 💫 Aniket Sinha:
 I’m a Senior Software Engineer at CRISIL with 6+ years of experience in full-stack development, <br>primarily working with Java on the backend and Angular on the frontend.<br><br>💻 What I do<br><br>* Design and build scalable Java-based applications<br>* Develop RESTful APIs and enterprise-grade backend systems<br>* Create responsive and user-friendly Angular frontends<br>* Focus on clean code, performance, and maintainable architecture<br><br>🤖 Currently learning<br><br>AI & Machine Learning, exploring how intelligent systems can be integrated with traditional <br>enterprise applications<br><br>💬 Ask me about<br><br>* Java-based application development<br>* Backend architecture & best practices<br>* Full-stack development with Java + Angular<br><br>🚀 I enjoy solving complex problems, learning new technologies, and continuously <br>improving my engineering skills.
 
 
@@ -11,6 +11,9 @@ I’m a Senior Software Engineer at CRISIL with 6+ years of experience in full-s
 ![](https://github-readme-stats.vercel.app/api?username=Sinha-Ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sinha-Ani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinha-Ani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sinha-Ani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
