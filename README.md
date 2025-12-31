@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                             💫 I am Aniket Sinha
 👋 Hi, I’m a Senior Software Engineer<br><br>I’m a Senior Software Engineer at CRISIL with 6+ years of experience in full-stack development, primarily working with Java on the backend and Angular on the frontend.<br><br>💻 What I do<br><br>Design and build scalable Java-based applications<br><br>Develop RESTful APIs and enterprise-grade backend systems<br><br>Create responsive and user-friendly Angular frontends<br><br>Focus on clean code, performance, and maintainable architecture<br><br>🤖 Currently learning<br><br>AI & Machine Learning, exploring how intelligent systems can be integrated with traditional enterprise applications<br><br>💬 Ask me about<br><br>Java-based application development<br><br>Backend architecture & best practices<br><br>Full-stack development with Java + Angular<br><br>🚀 I enjoy solving complex problems, learning new technologies, and continuously improving my engineering skills.
 
 
